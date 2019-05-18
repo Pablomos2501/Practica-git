@@ -44,4 +44,4 @@ i=0
 
 while i <=10:
     print("hola we")
-    i=i+1
+    i=i+2
